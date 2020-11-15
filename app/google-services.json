@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "997439983831",
+    "firebase_url": "https://sapient-symbol-246413.firebaseio.com",
+    "project_id": "sapient-symbol-246413",
+    "storage_bucket": "sapient-symbol-246413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997439983831:android:e2ee27d1d7d47f97262092",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997439983831-0sot7r1p41hbdoklelkafmj4ouq8hsj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myproject",
+            "certificate_hash": "1855f36641188e2c815421edf7c83a5657d9bd63"
+          }
+        },
+        {
+          "client_id": "997439983831-d5nnd49d973tfghc0ohag3e276shvdsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqpAxrUNhweZG0DypCEAWj_RUC4TRSV_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997439983831-d5nnd49d973tfghc0ohag3e276shvdsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
